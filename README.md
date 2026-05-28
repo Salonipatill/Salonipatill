@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am focused on Data Structures and Algorithms using C++. I am working on Python, AI, and Large Language Models (LLMs). I am open to opportunities in Software Development and AI/ML domains. I am enthusiastic about solving real-world problems through code and building intelligent systems.
+Computer Science student passionate about Web Development, Python, and Data Structures & Algorithms in C++. Currently learning AI & LLM technologies including Prompt Engineering, LangChain, LangGraph, and RAG systems. Interested in solving real-world problems through software development and AI integration.
 
 
 ## 🌐 Socials:
