@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img  font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Saloni+Patil;Web+Development+%26+AI+Integration+Intern;Computer+Science+Student;Web+Developer;Python+Developer;AI+%26+LLM+Enthusiast" />
-</h1>
+<h1 align="center">Hi 👋, I'm Saloni Patil</h1>
+
+<p align="center">
+Web Development & AI Integration Intern | Computer Science Student
+</p>
 
 <p align="center">
 Passionate about Web Development, Python, Data Structures & Algorithms, and Artificial Intelligence.
@@ -16,102 +18,12 @@ Currently learning Prompt Engineering, LangChain, LangGraph, RAG Systems, and AI
 🐍 Python • 🌐 Web Development • 🤖 AI & LLMs • 📚 DSA  
 </p>
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Student
-* 💻 Interested in Web Development & Backend Engineering
-* 🐍 Working with Python, FastAPI, Django, and C++
-* 🤖 Learning AI, LLMs, LangChain, LangGraph, and RAG
-* 🌱 Continuously improving problem-solving and software development skills
-* 🚀 Building real-world software and AI-powered applications
-
----
-
-## 💼 Professional Experience
-
-### 💼 Web Development & AI Integration Intern | INFIMIT
-
-📅 April 2026 – Present
-
-Contributing to the redesign of a real-world higher education platform and developing AI-powered solutions.
-
-#### Core Contributions
-
-- 🎨 Frontend Design & Architecture (Stitch, Figma)
-- 🤖 AI-Service Development (FastAPI, Groq)
-- 🐳 Docker-based Development
-- 🧪 Testing with Pytest
-
-#### Tech Stack
-
-`Python` • `FastAPI` • `Docker` • `Groq` • `Pytest` • `GitHub` • `Figma` • `Stitch`
-
----
-
-## 🚀 Internship Contributions
-
-### AI-Service
-
-* Contributed to FastAPI-based backend development
-* Implemented and tested application features
-* Worked on debugging and issue resolution
-* Participated in code reviews and project improvements
-* Worked with Dockerized development environments
-
----
-
-## 🚀 Featured Project
-
-### TeachTrack
-
-A platform designed to streamline communication between students and teachers through doubt management, quizzes, ratings, and analytics.
-
-#### Features
-
-* Student Doubt Submission System
-* Quiz Management Module
-* Teacher Rating System
-* Student Performance Rating
-* Dashboard Analytics
-* Email-Based Verification
-* Centralized Database Management
-* Secure Access Control
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:salonipatil0528@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🏆 Coding Profiles
-
-<p align="center">
-<a href="YOUR_LEETCODE_PROFILE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,fastapi,django,mysql,docker,git,github,vscode,figma" />
 </p>
 
----
 
 ## 🛠️ Tools & Platforms
 
@@ -173,10 +85,86 @@ A platform designed to streamline communication between students and teachers th
 
 ---
 
+
+## 💼 Professional Experience
+
+### 💼 Web Development & AI Integration Intern | INFIMIT
+
+📅 April 2026 – Present
+
+Contributing to the redesign of a real-world higher education platform and developing AI-powered solutions.
+
+#### Core Contributions
+
+- 🎨 Frontend Design & Architecture (Stitch, Figma)
+- 🤖 AI-Service Development (FastAPI, Groq)
+- 🐳 Docker-based Development
+- 🧪 Testing with Pytest
+
+#### Tech Stack
+
+`Python` • `FastAPI` • `Docker` • `Groq` • `Pytest` • `GitHub` • `Figma` • `Stitch`
+
+---
+
+## 🚀 Internship Contributions
+
+### AI-Service
+
+* Contributed to FastAPI-based backend development
+* Implemented and tested application features
+* Worked on debugging and issue resolution
+* Participated in code reviews and project improvements
+* Worked with Dockerized development environments
+
+---
+
+## 🚀 Featured Project
+
+### TeachTrack
+
+A platform designed to streamline communication between students and teachers through doubt management, quizzes, ratings, and analytics.
+
+#### Features
+
+* Student Doubt Submission System
+* Quiz Management Module
+* Teacher Rating System
+* Student Performance Rating
+* Dashboard Analytics
+* Email-Based Verification
+* Centralized Database Management
+* Secure Access Control
+---
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salonipatill&theme=tokyo-night"/>
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:salonipatil0528@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="center">
+<a href="YOUR_LEETCODE_PROFILE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -186,14 +174,6 @@ A platform designed to streamline communication between students and teachers th
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Salonipatill&style=for-the-badge&color=blue"/>
 </p>
-
----
-
-## ✨ Favorite Quote
-
-> Performance vs Productivity trade-off: Languages like C/C++ give performance and control. Languages like Python give productivity — write less, iterate faster.
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
