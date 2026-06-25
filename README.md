@@ -1,18 +1,201 @@
-# 💫 About Me:
-Computer Science student passionate about Web Development, Python, and Data Structures & Algorithms in C++. Currently learning AI & LLM technologies including Prompt Engineering, LangChain, LangGraph, and RAG systems. Interested in solving real-world problems through software development and AI integration.
+<h1 align="center">
+  <img  font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Saloni+Patil;Web+Development+%26+AI+Integration+Intern;Computer+Science+Student;Web+Developer;Python+Developer;AI+%26+LLM+Enthusiast" />
+</h1>
 
+<p align="center">
+Passionate about Web Development, Python, Data Structures & Algorithms, and Artificial Intelligence.
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salonipatil0528@gmail.com) 
+<p align="center">
+Currently learning Prompt Engineering, LangChain, LangGraph, RAG Systems, and AI Agent Development 🚀
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Salonipatill&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Salonipatill&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Salonipatill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
+
+<p align="center">
+🐍 Python • 🌐 Web Development • 🤖 AI & LLMs • 📚 DSA  
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Salonipatill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Interested in Web Development & Backend Engineering
+* 🐍 Working with Python, FastAPI, Django, and C++
+* 🤖 Learning AI, LLMs, LangChain, LangGraph, and RAG
+* 🌱 Continuously improving problem-solving and software development skills
+* 🚀 Building real-world software and AI-powered applications
+
+---
+
+## 💼 Professional Experience
+
+### 💼 Web Development & AI Integration Intern | INFIMIT
+
+📅 April 2026 – Present
+
+Contributing to the redesign of a real-world higher education platform and developing AI-powered solutions.
+
+#### Core Contributions
+
+- 🎨 Frontend Design & Architecture (Stitch, Figma)
+- 🤖 AI-Service Development (FastAPI, Groq)
+- 🐳 Docker-based Development
+- 🧪 Testing with Pytest
+
+#### Tech Stack
+
+`Python` • `FastAPI` • `Docker` • `Groq` • `Pytest` • `GitHub` • `Figma` • `Stitch`
+
+---
+
+## 🚀 Internship Contributions
+
+### AI-Service
+
+* Contributed to FastAPI-based backend development
+* Implemented and tested application features
+* Worked on debugging and issue resolution
+* Participated in code reviews and project improvements
+* Worked with Dockerized development environments
+
+---
+
+## 🚀 Featured Project
+
+### TeachTrack
+
+A platform designed to streamline communication between students and teachers through doubt management, quizzes, ratings, and analytics.
+
+#### Features
+
+* Student Doubt Submission System
+* Quiz Management Module
+* Teacher Rating System
+* Student Performance Rating
+* Dashboard Analytics
+* Email-Based Verification
+* Centralized Database Management
+* Secure Access Control
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:salonipatil0528@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="center">
+<a href="YOUR_LEETCODE_PROFILE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,fastapi,django,mysql,docker,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Libraries & Frameworks
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* AI Agent Development
+* React
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salonipatill&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonipatill&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonipatill&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salonipatill&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Salonipatill&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+## ✨ Favorite Quote
+
+> Performance vs Productivity trade-off: Languages like C/C++ give performance and control. Languages like Python give productivity — write less, iterate faster.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+ 
