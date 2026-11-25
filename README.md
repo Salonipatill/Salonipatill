@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saloni Patil</h1>
-
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2000&amp;pause=1200&amp;color=000000&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=60&amp;repeat=true&amp;lines=Hi+%F0%9F%91%8B%2C+I%27m+Saloni+Patil;Python+Developer"
+    alt="Hi 👋, I'm Saloni Patil — Python Developer"
+  />
+</h1>
 <p align="center">
 Web Development & AI Integration Intern | Computer Science Student
 </p>
