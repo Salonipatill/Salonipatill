@@ -74,6 +74,10 @@ Currently learning Prompt Engineering, LangChain, LangGraph, RAG Systems, and AI
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"/>
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"/>
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100"/>
+ <a href="https://github.com/Salonipatill?achievement=pair-extraordinaire&amp;tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"
+       alt="Pair Extraordinaire" width="100" />
+</a>
 </p>
 
 ---
@@ -155,7 +159,7 @@ A platform designed to streamline communication between students and teachers th
 ## 🏆 Coding Profiles
 
 <p align="center">
-<a href="YOUR_LEETCODE_PROFILE_URL">
+<a href="[YOUR_LEETCODE_PROFILE_URL](https://www.linkedin.com/in/saloni-patil-63bb68341)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
