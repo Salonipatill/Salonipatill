@@ -161,6 +161,9 @@ A platform designed to streamline communication between students and teachers th
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![Purple snake eating Saloni Patil's GitHub contributions](https://raw.githubusercontent.com/Salonipatill/Salonipatill/output/snake.svg)
 
 ## 👀 Profile Views
 
