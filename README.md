@@ -134,10 +134,10 @@ A platform designed to streamline communication between students and teachers th
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salonipatill&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/Salonipatill/Salonipatill/output/snake.svg"
+       alt="Saloni's animated contribution snake" />
 </p>
 
----
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -161,10 +161,6 @@ A platform designed to streamline communication between students and teachers th
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-![Purple snake eating Saloni Patil's GitHub contributions](https://raw.githubusercontent.com/Salonipatill/Salonipatill/output/snake.svg)
-
 ## 👀 Profile Views
 
 <p align="center">
